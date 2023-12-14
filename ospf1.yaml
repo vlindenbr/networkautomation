@@ -7,7 +7,7 @@
   vars:
     cli:
       username: vlinden
-      password: vinixc
+      password: 
       
   tasks:
     - name: enable ospf
